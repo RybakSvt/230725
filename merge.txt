@@ -3,10 +3,4 @@
 this is some content to mess with
 content to append
 #=======
-#NEW INFO
-#>>>>>>> new_branch_to_merge_later
-rewhrite
-=======
-whrite
->>>>>>> new_branch_to_merge_later
-gggg
+#NEW INFO"
